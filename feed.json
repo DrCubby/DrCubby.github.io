@@ -11,31 +11,21 @@
         {
           "scheme": "http://drcubby.github.io/categories.json",
           "label": "Season 0",
-          "mediaCategories": [
+          "mediaItems": [
             {
-              "scheme": "https://drcubby.github.io/categories.json",
-              "label": "The Dirty Pics We Saw 1st"
-            },
-            {
-              "scheme": "https://drcubby.github.io/categories.json",
-              "label": "The Dirty Vids",
-              "mediaItems": [
-                {
-                  "title": "The first view",
-                  "description": "My Vimeo Video Description",
-                  "thumbnail": "",
-                  "content": {
-                    "dateAdded": "2023-03-16T00:00:00Z",
-                    "videos": [
-                      {
-                        "url": "https://player.vimeo.com/external/808728386.m3u8?s=5e94173df95e663cec1e8193211378d0037abcc9",
-                        "quality": "HD",
-                        "videoType": "HLS"
-                      }
-                    ]
+              "title": "The first view",
+              "description": "My Vimeo Video Description",
+              "thumbnail": "",
+              "content": {
+                "dateAdded": "2023-03-16T00:00:00Z",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/808728386.m3u8?s=5e94173df95e663cec1e8193211378d0037abcc9",
+                    "quality": "HD",
+                    "videoType": "HLS"
                   }
-                }
-              ]
+                ]
+              }
             }
           ]
         }
