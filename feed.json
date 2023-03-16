@@ -12,7 +12,7 @@
             "name": "Lifestyle Shows",
             "query": "lifestyle AND reality shows",
             "order": "most_popular"
-        },
+        }
     ],
     "series": [
         {
