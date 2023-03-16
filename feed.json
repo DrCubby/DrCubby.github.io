@@ -1,7 +1,11 @@
 {
     "providerName": "DIY Discover",
-    "lastUpdated": "2023-03-14T00:00:00+00:00",
     "language": "en-US",
+	"rating": {
+		"rating": "PG",
+		"ratingSource": "USA_PR"
+	},
+    "lastUpdated": "2023-03-14T00:00:00+00:00",
     "categories": [
         {
             "name": "DIY Shows",
@@ -18,6 +22,15 @@
         {
             "id": "e7eQz4LDrOkjVx6sbjDZ",
             "title": "DIY Discover: Labor of Love",
+            "shortDescription": "Seasons for DIY Discover: Labor of Love",
+            "releaseDate":"2023-03-01T00:00:01+00:00",
+            "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
+            "genres": [
+                "educational",
+                "reality",
+                "documentary"
+            ],
+			"tags": ["dev-summit-series"],
             "seasons": [
                 {
                     "seasonNumber": "0",
@@ -49,15 +62,7 @@
                         }
                     ]
                 }
-            ],
-            "genres": [
-              "educational",
-              "reality",
-              "documentary"
-            ],
-            "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
-            "shortDescription": "Seasons for DIY Discover: Labor of Love",
-            "releaseDate":"2023-03-01"
+            ]
         }
     ]
 }
