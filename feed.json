@@ -7,32 +7,21 @@
       "description": "DIY Discover: Labor of Love is a heartwarming series that follows a family as they embark on an incredible journey to purchase and restore a 100-year-old mansion in Pennsylvania...",
       "link": "",
       "lastBuildDate": "2022-03-15T15:30:00-08:00",
-      "mediaCategories": [
-        {
-          "scheme": "http://drcubby.github.io/categories.json",
-          "label": "Season 0",
-          "mediaItems": [
-            {
-              "title": "The first view",
-              "description": "My Vimeo Video Description",
-              "thumbnail": "",
-              "content": {
-                "dateAdded": "2023-03-16T00:00:00Z",
-                "videos": [
-                  {
-                    "url": "https://player.vimeo.com/external/808728386.m3u8?s=5e94173df95e663cec1e8193211378d0037abcc9",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
       "items": [
         {
-          "title": "Season 0",
+          "title": "The first view",
+          "description": "My Vimeo Video Description",
+          "thumbnail": "",
+          "content": {
+            "dateAdded": "2023-03-16T00:00:00Z",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/808728386.m3u8?s=5e94173df95e663cec1e8193211378d0037abcc9",
+                "quality": "HD",
+                "videoType": "HLS"
+              }
+            ]
+          },
           "mediaCategories": [
             {
               "scheme": "https://drcubby.github.io/categories.json",
