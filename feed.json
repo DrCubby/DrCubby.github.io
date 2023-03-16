@@ -1,9 +1,10 @@
 {
     "providerName": "DIY Discover",
     "lastUpdated": "2022-03-15T15:30:00-08:00",
+    "language": "en",
     "channel": {
       "title": "DIY Discover: Labor of Love",
-      "description": "DIY Discover: Labor of Love is a heartwarming series that follows a family as they embark on an incredible journey to purchase and restore a 100-year-old mansion in Pennsylvania. With no previous experience as carpenters or contractors, the family learns new skills and tackles the unique challenges of restoring a century-old house. Follow along as they discover their inner builders and apply their creativity to bring new life to this historic home. With stunning before-and-after transformations, inspiring stories, and emotional moments, DIY Discover: Labor of Love is the ultimate feel-good series. Be a part of this family's journey and witness the transformation of this neglected mansion into a beautiful home filled with love and memories.",
+      "description": "DIY Discover: Labor of Love is a heartwarming series that follows a family as they embark on an incredible journey to purchase and restore a 100-year-old mansion in Pennsylvania...",
       "link": "",
       "lastBuildDate": "2022-03-15T15:30:00-08:00",
       "mediaCategories": [
@@ -20,14 +21,18 @@
               "label": "The Dirty Vids",
               "mediaItems": [
                 {
-                  "title": "My YouTube Video Title",
-                  "description": "My YouTube Video Description",
+                  "title": "The first view",
+                  "description": "My Vimeo Video Description",
                   "thumbnail": "https://i.ytimg.com/vi/d3USSK8QLRY/hqdefault.jpg",
                   "content": {
-                    "url": "https://www.youtube.com/watch?v=d3USSK8QLRY",
-                    "player": {
-                      "url": "https://www.youtube.com/embed/d3USSK8QLRY"
-                    }
+                    "dateAdded": "2023-03-16T00:00:00Z",
+                    "videos": [
+                      {
+                        "url": "https://player.vimeo.com/external/808728386.m3u8?s=5e94173df95e663cec1e8193211378d0037abcc9",
+                        "quality": "HD",
+                        "videoType": "HLS"
+                      }
+                    ]
                   }
                 }
               ]
