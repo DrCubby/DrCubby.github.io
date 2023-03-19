@@ -91,10 +91,10 @@
             "shortDescription": "From Tudor Revival to Queen Anne and Scottish Baronial styles, we've gathered public photos and artistic renderings to take you on a journey through time and the transformation of this architectural gem.",
             "title": "Extras - Exterior",
             "content": {
-                "duration": 699,
+                "duration": 108,
                 "videos": [{
-                    "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/2-keynote-address.mp4",
+                    "videoType": "HLS",
+                    "url": "https://player.vimeo.com/external/809415590.m3u8?s=0f1a5d1451f8082f9a3bacca237c844165e5ddb8",
                     "quality": "HD"
                 }],
                 "language": "en-us",
