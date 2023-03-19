@@ -5,19 +5,16 @@
 		"rating": "PG",
 		"ratingSource": "USA_PR"
 	},
+	"playlists": [{
+		"name": "lol_category_row",
+		"itemIds": ["e7eQz4LDrOkjVx6sbjDZ","diyd-lol-extra-exterior"]
+	}],
+	"categories": [{
+		"name": "Labor of Love",
+		"playlistName": "lol_category_row",
+		"order": "manual"
+	}],
     "lastUpdated": "2023-03-14T00:00:00+00:00",
-    "categories": [
-        {
-            "name": "DIY Shows",
-            "query": "cooking AND reality shows",
-            "order": "most_popular"
-        },
-        {
-            "name": "Lifestyle Shows",
-            "query": "lifestyle AND reality shows",
-            "order": "most_popular"
-        }
-    ],
     "series": [
         {
             "id": "e7eQz4LDrOkjVx6sbjDZ",
@@ -30,7 +27,7 @@
                 "reality",
                 "documentary"
             ],
-			"tags": ["dev-summit-series"],
+			"tags": [],
             "seasons": [
                 {
                     "seasonNumber": "0",
@@ -59,6 +56,31 @@
                             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
                             "episodeNumber": 1,
                             "shortDescription": "The real estate agent sent a short video for a real look inside"
+                        },
+                        {
+                            "id": "extra-joey_underground",
+                            "title": "The Urban Explorer Visits",
+                            "releaseDate":"2023-03-02",
+                            "content": 
+                                {
+                                    "dateAdded": "2023-03-19T00:00:01+00:00",
+                                    "videos": [
+                                        {
+                                           "url": "https://player.vimeo.com/external/809527524.m3u8?s=da49f2c081ca118fb0f385428523685e4ef5a161",
+                                           "quality": "HD",
+                                           "videoType": "HLS"
+                                        }
+                                    ],
+                                    "duration": 1176,
+                                    "captions": [ ],
+                                    "adBreaks": [],
+                                    "language": "en-US",
+                                    "trickPlayFiles": [
+                                    ]
+                                },
+                            "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
+                            "episodeNumber": 1,
+                            "shortDescription": "An urban explorer comes to document the house"
                         }
                     ]
                 }
@@ -92,17 +114,19 @@
             "title": "Extras - Exterior",
             "content": {
                 "duration": 108,
+                "captions": [],
+                "adBreaks": [],
+                "language": "en-us",
+                "dateAdded": "2023-03-18T00:00:00Z",
                 "videos": [{
                     "videoType": "HLS",
                     "url": "https://player.vimeo.com/external/809415590.m3u8?s=0f1a5d1451f8082f9a3bacca237c844165e5ddb8",
                     "quality": "HD"
                 }],
-                "language": "en-us",
                 "rating": {
                     "rating": "G",
                     "ratingSource": "USA_PR"
-                },
-                "dateAdded": "2023-03-18T00:00:00Z"
+                }
             }
         }
     ]
