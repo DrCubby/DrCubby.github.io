@@ -5,25 +5,10 @@
 		"rating": "PG",
 		"ratingSource": "USA_PR"
 	},
-	"playlists": [
-        {
-            "name": "lol_episode_row",
-            "itemIds": ["lol-joey_underground","lol-jeff-holtz"]
-        },
-        {
-            "name": "lol_extras_row",
-            "itemIds": ["diyd-lol-extra-exterior"]
-        }
-    ],
 	"categories": [
         {
             "name": "Labor of Love",
-            "playlistName": "lol_episode_row",
-            "order": "manual"
-        },
-        {
-            "name": "Extras: Labor of Love",
-            "playlistName": "lol_extras_row",
+            "query": "lol_episode_row",
             "order": "manual"
         }
     ],
@@ -47,11 +32,12 @@
                     "episodes": [
                         {
                             "id": "lol-jeff-holtz",
-                            "title": "First Video View",
+                            "title": "Extras: First View 2023",
+                            "episodeNumber": 1,
                             "releaseDate":"2023-03-01",
                             "content": 
                                 {
-                                    "dateAdded": "2023-03-14T00:00:01+00:00",
+                                    "dateAdded": "2023-03-01T00:00:01+00:00",
                                     "videos": [
                                         {
                                            "url": "https://player.vimeo.com/external/808773576.m3u8?s=5bf61bc89fb3839ee1dc67da33225d6922c27e38",
@@ -63,22 +49,19 @@
                                     "captions": [],
                                     "adBreaks": [],
                                     "language": "en-US",
-                                    "trickPlayFiles": [
-                                    ]
+                                    "trickPlayFiles": []
                                 },
                             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
-                            "episodeNumber": 1,
                             "shortDescription": "The real estate agent sent a short video for a real look inside"
                         },
                         {
                             "id": "lol-joey_underground",
-                            "title": "The Urban Explorer Visits",
-                            "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
+                            "title": "Extras: Urban Explorer",
                             "episodeNumber": 2,
-                            "shortDescription": "An urban explorer comes to document the house",
+                            "releaseDate":"2023-03-01",
                             "content": 
                                 {
-                                    "dateAdded": "2023-03-18T00:00:01+00:00",
+                                    "dateAdded": "2023-03-01T00:00:01+00:00",
                                     "videos": [
                                         {
                                            "url": "https://player.vimeo.com/external/809527524.m3u8?s=da49f2c081ca118fb0f385428523685e4ef5a161",
@@ -92,54 +75,38 @@
                                     "language": "en-US",
                                     "trickPlayFiles": []
                                 },
-                            "releaseDate":"2023-03-02"
+                            "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
+                            "shortDescription": "An urban explorer comes to document the house",
+                            "longDescription": "Urban explorer Joey Underground explores the property from top to bottom, side to side.  A clear view of the state of the home and the massive work needed to bring it bacck to life.  All new wiring, plumbing, windows, ceilings etc.  A complete interior rehabilition is needed along with quite a bit of exterior work on the home as well as a garden rebuild."
+                        },
+                        {
+                            "id": "lol-extras-exterior",
+                            "title": "Extras: Exterior 2023",
+                            "episodeNumber": 3,
+                            "releaseDate":"2023-03-01",
+                            "content": 
+                                {
+                                    "dateAdded": "2023-03-01T00:00:01+00:00",
+                                    "videos": [
+                                        {
+                                            "videoType": "HLS",
+                                            "url": "https://player.vimeo.com/external/809415590.m3u8?s=0f1a5d1451f8082f9a3bacca237c844165e5ddb8",
+                                            "quality": "HD"
+                                        }
+                                    ],
+                                    "duration": 108,
+                                    "captions": [],
+                                    "adBreaks": [],
+                                    "language": "en-US",
+                                    "trickPlayFiles": []
+                                },
+                            "thumbnail": "https://drcubby.github.io/images/thumb_exterior.jpg",
+                            "shortDescription": "Our Gem Looks A Little Rough.",
+                            "longDescription": "An unvarnished look at the exterior of our Labor of Love - a 100-year-old mansion in Pennsylvania that's waiting to be brought back to life. With a mix of Tudor Revival, Queen Anne, and Scottish Baronial styles, this brick, steel, and concrete home designed by D.G. Puderbaugh is in dire need of some TLC. In this short video, we're not hiding the home's current condition - we're showing it all. From photos of the recent past to the ones that made us fall in love with this hidden gem, we've captured every detail to showcase the potential of this unique and absolute gem. You'll see the overgrown landscaping and signs of wear and tear, but you'll also see the beauty and character that we saw from the beginning. Join us on this journey as we work to restore this architectural masterpiece to its former glory, one labor of love at a time."
                         }
                     ]
                 }
             ]
-        }
-    ],
-    "shortFormVideos": [
-        {
-            "id": "diyd-lol-extra-exterior",
-            "shortDescription": "Our Gem Looks A Little R   ough.",
-            "title": "Extras - Exterior",
-            "longDescription": "An unvarnished look at the exterior of our Labor of Love - a 100-year-old mansion in Pennsylvania that's waiting to be brought back to life. With a mix of Tudor Revival, Queen Anne, and Scottish Baronial styles, this brick, steel, and concrete home designed by D.G. Puderbaugh is in dire need of some TLC. In this short video, we're not hiding the home's current condition - we're showing it all. From photos of the recent past to the ones that made us fall in love with this hidden gem, we've captured every detail to showcase the potential of this unique and absolute gem. You'll see the overgrown landscaping and signs of wear and tear, but you'll also see the beauty and character that we saw from the beginning. Join us on this journey as we work to restore this architectural masterpiece to its former glory, one labor of love at a time.",
-            "thumbnail": "https://drcubby.github.io/images/thumb_exterior.jpg",
-            "releaseDate": "2022-05-01",
-            "genres": [
-                "documentary",
-                "educational",
-                "reality"
-            ],
-            "tags": [
-                "Mansion makeover",
-                "Architectural gem",
-                "Labor of Love",
-                "Hidden beauty",
-                "Home restoration",
-                "Historical charm",
-                "Eclectic design",
-                "Brick masterpiece",
-                "Grand old home",
-                "Beauty in decay"
-            ],
-            "content": {
-                "duration": 108,
-                "captions": [],
-                "adBreaks": [],
-                "language": "en-us",
-                "dateAdded": "2023-03-18T00:00:00Z",
-                "videos": [{
-                    "videoType": "HLS",
-                    "url": "https://player.vimeo.com/external/809415590.m3u8?s=0f1a5d1451f8082f9a3bacca237c844165e5ddb8",
-                    "quality": "HD"
-                }],
-                "rating": {
-                    "rating": "G",
-                    "ratingSource": "USA_PR"
-                }
-            }
         }
     ]
 }
