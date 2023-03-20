@@ -15,7 +15,7 @@
     "lastUpdated": "2023-03-19T00:00:00+00:00",
     "series": [
         {
-            "id": "e7eQz4LDrOkjVx6sbjDZ",
+            "id": "diyd-labor-of-love",
             "title": "DIY Discover: Labor of Love",
             "shortDescription": "The Earliest To The Most Recent.",
             "releaseDate":"2023-03-01T00:00:01+00:00",
@@ -28,7 +28,7 @@
             "tags": ["LOL"],
             "seasons": [
                 {
-                    "seasonNumber": "0",
+                    "seasonNumber": "1",
                     "episodes": [
                         {
                             "id": "lol-jeff-holtz",
@@ -55,7 +55,7 @@
                             "shortDescription": "The real estate agent sent a short video for a real look inside"
                         },
                         {
-                            "id": "lol-joey_underground",
+                            "id": "lol-joey-underground",
                             "title": "Extras: Urban Explorer",
                             "episodeNumber": 2,
                             "releaseDate":"2023-03-01",
@@ -102,7 +102,7 @@
                                 },
                             "thumbnail": "https://drcubby.github.io/images/thumb_exterior.jpg",
                             "shortDescription": "Our Gem Looks A Little Rough.",
-                            "longDescription": "An unvarnished look at the exterior of our Labor of Love - a 100-year-old mansion in Pennsylvania that's waiting to be brought back to life. With a mix of Tudor Revival, Queen Anne, and Scottish Baronial styles, this brick, steel, and concrete home designed by D.G. Puderbaugh is in dire need of some TLC. In this short video, we're not hiding the home's current condition - we're showing it all. From photos of the recent past to the ones that made us fall in love with this hidden gem, we've captured every detail to showcase the potential of this unique and absolute gem. You'll see the overgrown landscaping and signs of wear and tear, but you'll also see the beauty and character that we saw from the beginning. Join us on this journey as we work to restore this architectural masterpiece to its former glory, one labor of love at a time."
+                            "longDescription": "An unvarnished look at the exterior of our Labor of Love."
                         }
                     ]
                 }
