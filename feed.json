@@ -5,15 +5,28 @@
 		"rating": "PG",
 		"ratingSource": "USA_PR"
 	},
-	"playlists": [{
-		"name": "lol_category_row",
-		"itemIds": ["e7eQz4LDrOkjVx6sbjDZ","diyd-lol-extra-exterior"]
-	}],
-	"categories": [{
-		"name": "Labor of Love",
-		"playlistName": "lol_category_row",
-		"order": "manual"
-	}],
+	"playlists": [
+        {
+            "name": "lol_episode_row",
+            "itemIds": ["lol-joey_underground","lol-jeff-holtz"]
+        },
+        {
+            "name": "lol_extras_row",
+            "itemIds": ["diyd-lol-extra-exterior"]
+        }
+    ],
+	"categories": [
+        {
+            "name": "Labor of Love",
+            "playlistName": "lol_episode_row",
+            "order": "manual"
+        },
+        {
+            "name": "Extras: Labor of Love",
+            "playlistName": "lol_extras_row",
+            "order": "manual"
+        }
+    ],
     "lastUpdated": "2023-03-14T00:00:00+00:00",
     "series": [
         {
@@ -33,7 +46,7 @@
                     "seasonNumber": "0",
                     "episodes": [
                         {
-                            "id": "3FB1vavp2efzGVz3ARUa",
+                            "id": "lol-jeff-holtz",
                             "title": "First Video View",
                             "releaseDate":"2023-03-01",
                             "content": 
@@ -58,7 +71,7 @@
                             "shortDescription": "The real estate agent sent a short video for a real look inside"
                         },
                         {
-                            "id": "extra-joey_underground",
+                            "id": "lol-joey_underground",
                             "title": "The Urban Explorer Visits",
                             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
                             "episodeNumber": 2,
