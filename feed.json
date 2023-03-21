@@ -7,7 +7,7 @@
 	},
 	"categories": [
         {
-            "name": "Labor of Love",
+            "name": "DIYD: Labor of Love",
             "query": "LOL",
             "order": "manual"
         }
@@ -17,7 +17,7 @@
         {
             "id": "diyd-labor-of-love",
             "title": "DIY Discover: Labor of Love",
-            "shortDescription": "The Earliest To The Most Recent.",
+            "shortDescription": "Join us for the evolution of a restoration",
             "releaseDate":"2023-03-01T00:00:01+00:00",
             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
             "genres": [
