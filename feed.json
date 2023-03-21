@@ -78,31 +78,6 @@
                             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
                             "shortDescription": "An urban explorer comes to document the house",
                             "longDescription": "Urban explorer Joey Underground explores the property from top to bottom, side to side.  A clear view of the state of the home and the massive work needed to bring it bacck to life.  All new wiring, plumbing, windows, ceilings etc.  A complete interior rehabilition is needed along with quite a bit of exterior work on the home as well as a garden rebuild."
-                        },
-                        {
-                            "id": "lol-extras-exterior",
-                            "title": "Extras: Exterior 2023",
-                            "episodeNumber": 3,
-                            "releaseDate":"2023-03-01",
-                            "content": 
-                                {
-                                    "dateAdded": "2023-03-01T00:00:01+00:00",
-                                    "videos": [
-                                        {
-                                            "videoType": "HLS",
-                                            "url": "https://player.vimeo.com/external/809415590.m3u8?s=0f1a5d1451f8082f9a3bacca237c844165e5ddb8",
-                                            "quality": "HD"
-                                        }
-                                    ],
-                                    "duration": 108,
-                                    "captions": [],
-                                    "adBreaks": [],
-                                    "language": "en-US",
-                                    "trickPlayFiles": []
-                                },
-                            "thumbnail": "https://drcubby.github.io/images/thumb_exterior.jpg",
-                            "shortDescription": "Our Gem Looks A Little Rough.",
-                            "longDescription": "An unvarnished look at the exterior of our Labor of Love."
                         }
                     ]
                 }
