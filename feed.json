@@ -52,7 +52,8 @@
                                     "trickPlayFiles": []
                                 },
                             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
-                            "shortDescription": "The real estate agent sent a short video for a real look inside"
+                            "shortDescription": "The real estate agent sent a short video for a real look inside",
+                            "longDescription": "The real estate agent sent a short video for a real look inside."
                         },
                         {
                             "id": "lol-joey-underground",
@@ -77,7 +78,7 @@
                                 },
                             "thumbnail": "https://drcubby.github.io/images/thumbnail.jpg",
                             "shortDescription": "An urban explorer comes to document the house",
-                            "longDescription": "Urban explorer Joey Underground explores the property from top to bottom, side to side.  A clear view of the state of the home and the massive work needed to bring it bacck to life.  All new wiring, plumbing, windows, ceilings etc.  A complete interior rehabilition is needed along with quite a bit of exterior work on the home as well as a garden rebuild."
+                            "longDescription": "An urban explorer comes to document the house."
                         }
                     ]
                 }
